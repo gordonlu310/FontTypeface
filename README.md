@@ -11,9 +11,9 @@ An App Inventor extension that sets the font typeface, font weight and font styl
 
 * **User Interface:**  Button, Checkbox, DatePicker, Label, ListPicker, PasswordTextBox, Switch, TextBox, TimePicker. 
 
-* **Media:** ImagePicker
+* **Media:** ImagePicker.
 
-* **Social:** ContactPicker, EmailPicker, PhoneNumberPicker
+* **Social:** ContactPicker, EmailPicker, PhoneNumberPicker.
 
 **:open_book: Documentation**
 
